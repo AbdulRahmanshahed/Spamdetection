@@ -83,3 +83,8 @@ MODEL_CHOICE = 'logreg'   # options: 'logreg', 'nb', 'svm'
 
 👨‍💻 **Author**: Your Name  
 📅 **Project**: AI/ML Internship Task – Spam Detection
+## Results
+<img width="1294" height="630" alt="image" src="https://github.com/user-attachments/assets/e2a4031e-03c5-49e1-99a4-801dcb34b385" />
+<img width="1325" height="682" alt="image" src="https://github.com/user-attachments/assets/082b0108-af36-4cfb-ba37-7050438a7063" />
+
+
